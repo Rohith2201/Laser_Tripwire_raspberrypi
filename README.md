@@ -1,10 +1,8 @@
 # Laser_Tripwire_raspberrypi
-Laser trip wire is a system for detecting the presence of intruders in a given area
-
 Laser Trip Alarm System
-ECS IoT Hackathon Project
+ECS Project
 
-This project aims to create a system that detects motion and activates an alarm when the laser beam is interrupted. Prior to using this system, we strongly advise you to carefully read this user manual to ensure correct setup and operation.
+This project aims to create a system that detects motion and activates an alarm when the laser beam is interrupted. Prior to using this system, we strongly advise you to carefully read this user manual to ensure correct setup and operation.Laser trip wire is a system for detecting the presence of intruders in a given area
 
 ## Table of Contents:
 
